@@ -5,3 +5,4 @@ langchain-community>=0.0.30
 langchain-core>=0.1.0
 langchain-google-genai>=0.0.5
 langgraph>=0.0.20
+tqdm>=4.65.0
